@@ -22,7 +22,7 @@ A simple calculator application built with Flutter.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/calculator-flutter.git
+git clone https://github.com/m-hassanali-tech/calculator-flutter.git
 ```
 
 ## Future Improvements
